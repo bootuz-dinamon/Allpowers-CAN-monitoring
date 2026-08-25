@@ -8,3 +8,6 @@ Allpowers R2500 v2:
 - UA: https://allpowersukraine.com/?ref=BOOTUSEUA
 
 You can use Weact CAN485 - https://fas.st/xpwGa
+
+
+<iframe width="560" height="315" src="https://youtu.be/x4WQyBzwMLk" frameborder="0" allowfullscreen></iframe>
