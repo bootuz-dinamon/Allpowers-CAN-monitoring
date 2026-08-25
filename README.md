@@ -7,7 +7,7 @@ Allpowers R2500 v2:
 - DE: https://www.iallpowers.de/?ref=eblmqgzv
 - UA: https://allpowersukraine.com/?ref=BOOTUSEUA
 
-You can use Weact CAN485 - https://fas.st/xpwGa
+You can use Weact CAN485 - https://fas.st/xpwGa 
 
 
 [![Review with teardown of the portable charging station Allpowers R2500 V2. And CAN communication.](https://youtu.be/x4WQyBzwMLk)](https://youtu.be/x4WQyBzwMLk)
