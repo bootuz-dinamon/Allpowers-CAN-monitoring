@@ -10,4 +10,4 @@ Allpowers R2500 v2:
 You can use Weact CAN485 - https://fas.st/xpwGa 
 
 
-[![Review with teardown of the portable charging station Allpowers R2500 V2. And CAN communication.](https://youtu.be/x4WQyBzwMLk)](https://youtu.be/x4WQyBzwMLk)
+[![Review with teardown of the portable charging station Allpowers R2500 V2. And CAN communication.](https://i.ytimg.com/vi/x4WQyBzwMLk/sddefault.jpg)](https://youtu.be/x4WQyBzwMLk)
